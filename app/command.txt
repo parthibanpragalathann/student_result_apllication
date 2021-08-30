@@ -1,1 +1,0 @@
-curl -d '{"Name":"saran", "RollNumber":"12ac2", "DateofBirth": "2021-08-11"}' -H "Content-Type: application/json" -X POST  http://127.0.0.1:8000/api/student/
